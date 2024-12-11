@@ -34,11 +34,10 @@ github.com/pkg/errors
 github.com/ziutek/mymysql/godrv
 github.com/ziutek/mymysql/mysql
 github.com/ziutek/mymysql/native
-# golang.org/x/crypto v0.0.0-20200403201458-baeed622b8d8
+# golang.org/x/crypto v0.31.0
 ## explicit
 golang.org/x/crypto/pbkdf2
-# golang.org/x/text v0.3.2
-## explicit
+# golang.org/x/text v0.21.0
 golang.org/x/text/cases
 golang.org/x/text/internal
 golang.org/x/text/internal/language

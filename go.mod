@@ -13,6 +13,5 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/shopspring/decimal v0.0.0-20200227202807-02e2044944cc // indirect
 	github.com/ziutek/mymysql v1.5.4
-	golang.org/x/crypto v0.0.0-20200403201458-baeed622b8d8 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 )
